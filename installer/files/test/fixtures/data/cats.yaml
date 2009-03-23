@@ -1,0 +1,9 @@
+hexe:
+    id: 1
+    name: hexe
+    horde_id: 1
+
+penny:
+    id: 2
+    name: penny
+    horde_id: 1
